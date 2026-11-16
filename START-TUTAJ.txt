@@ -1,0 +1,5 @@
+ARTNUX 0.4
+
+1. Otworz Artnux-Aero-0.4-PODGLAD.html w przegladarce, zeby zobaczyc juz dzis efekty prac.
+2. Do zbudowania PRAWDZIWEGO ISO przeczytaj README_PL.md.
+3. To nie jest dzialajace ISO. Nie formatuj zadnych dyskow.
